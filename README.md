@@ -1,4 +1,4 @@
-# Herd the Babies
+# Herd the Babies 🐈🐈‍🐈‍
 
 Write a function which takes a string as its argument. The string will consist of several 'baby' (lowercase) letters, that belong to a 'parent' (uppercase) letter.
 
@@ -10,11 +10,9 @@ EXAMPLES: 
 herdTheBabies('aA') //should return 'Aa'
 ```
 
-
 ```javascript
 herdTheBabies('aBA') //should return 'AaB'
 ```
-
 
 ```javascript
 herdTheBabies('bbaBccAC') //should return 'AaBbbCcc'
