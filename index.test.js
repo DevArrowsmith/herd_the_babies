@@ -1,4 +1,4 @@
-const { herdBabies } = require('./index');
+const herdBabies = require('./index');
 const { test, expect } = require('@jest/globals');
 
 test("Returns an empty string when passed an empty string", () => {

@@ -19,31 +19,3 @@ herdTheBabies('aBA') //should return 'AaB'
 ```javascript
 herdTheBabies('bbaBccAC') //should return 'AaBbbCcc'
 ```
-
-
-"bbaBccAC"
-
-[bbaBccAC]
-
-If unicode above threshold (lowercse)
-then subtract 11.5 from it ^__^'
-before sort.
-
-DUMB SOLUTION. But.. solution right?
-
-
-
-
-Rules
-Sort by case.
-
-[A,C,B,a,c,b]
-
-
-
-
-
-/*TODO:
-    1. Set to run tests on save
-    2. Sort out your herBabies import.
-    */
