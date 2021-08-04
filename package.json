@@ -1,0 +1,24 @@
+{
+  "name": "herdthebabies",
+  "version": "1.0.0",
+  "description": "Write a function which takes a string as its argument. The string will consist of several 'baby' (lowercase) letters, that belong to a 'parent' (uppercase) letter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevArrowsmith/herd_the_babies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevArrowsmith/herd_the_babies/issues"
+  },
+  "homepage": "https://github.com/DevArrowsmith/herd_the_babies#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
